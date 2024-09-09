@@ -1,0 +1,2 @@
+A system call is a mechanism used by programs to request services from the operating system (OS). In simpler terms, it is a way for a program to interact with the underlying system, such as accessing hardware resources or performing privileged operations. It is the only entry point to the kernel .
+All programs needing the kernel need to use system calls
